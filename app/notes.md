@@ -1,0 +1,1 @@
+Tried to wrap the links behind a loggedin status --> Fixed 'jsx must have one parent element...' https://codesource.io/fix-jsx-expressions-must-have-one-parent-element/   root.jsx (line 65/76 element wrap)
